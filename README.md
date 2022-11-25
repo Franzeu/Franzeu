@@ -8,7 +8,7 @@ I am currently a rising senior at University of California, Santa Cruz studying 
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [faeugeni@ucsc.edu](mailto:faeugeni@ucsc.edu)
-* 🚀  I'm currently working on [AdaptiveTyping](http://https://github.com/Franzeu/AdaptiveTyping)
+* 🚀  I'm currently working on a Gmail CLone
 * 🧠  I'm learning AngularJS and React
 * 🤝  I'm open to collaborating on making interesting projects :)
 * ⚡  I love to workout, swim, and hone my skills in photography
