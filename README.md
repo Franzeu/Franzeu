@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am currently a rising senior at University of California, Santa Cruz studying Computer Science. I'm a passionate programmer that desires to create apps and learn more about new technologies in the computer science field. At the moment I am currently learning multiple frontend frameworks such as AngularJS and React . In the future I plan to learn more about backend frameworks. Other than that, I love to play video games and hang out with friends in my free time.
+I am currently a senior at University of California, Santa Cruz studying Computer Science. I'm a passionate programmer that desires to create apps and learn more about new technologies in the computer science field. At the moment I am currently learning multiple frontend frameworks such as AngularJS and React . In the future I plan to learn more about backend frameworks. Other than that, I love to play video games and hang out with friends in my free time.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [faeugeni@ucsc.edu](mailto:faeugeni@ucsc.edu)
