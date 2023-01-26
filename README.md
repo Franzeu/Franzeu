@@ -8,7 +8,7 @@ I am currently a senior at University of California, Santa Cruz studying Compute
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [faeugeni@ucsc.edu](mailto:faeugeni@ucsc.edu)
-* 🚀  I'm currently working on a private project with a company
+* 🚀  I'm currently working on a private project for a company
 * 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on making interesting projects :)
 * ⚡  I love to workout, swim, and hone my skills in photography
