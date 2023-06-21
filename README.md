@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franz Eugenio
 =====================================================================================================================================
 
-Computer Science Graduate
-------------------------
-
 I am a recent Computer Science graduate at University of California, Santa Cruz. I'm a passionate programmer that desires to create apps and learn more about new technologies in the computer science field. At the moment I am currently learning multiple frontend frameworks such as React . In the future I plan to learn more about backend frameworks. Other than that, I love to play basketball and hang out with friends in my free time.
 
 * 🌍  I'm based in California
