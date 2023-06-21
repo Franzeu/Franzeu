@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franz Eugenio
 =====================================================================================================================================
 
-Computer Science Student
+Computer Science Graduate
 ------------------------
 
-I am currently a senior at University of California, Santa Cruz studying Computer Science. I'm a passionate programmer that desires to create apps and learn more about new technologies in the computer science field. At the moment I am currently learning multiple frontend frameworks such as AngularJS and React . In the future I plan to learn more about backend frameworks. Other than that, I love to play video games and hang out with friends in my free time.
+I am a recent graduate at University of California, Santa Cruz studying Computer Science. I'm a passionate programmer that desires to create apps and learn more about new technologies in the computer science field. At the moment I am currently learning multiple frontend frameworks such as React . In the future I plan to learn more about backend frameworks. Other than that, I love to play basketball and hang out with friends in my free time.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [faeugeni@ucsc.edu](mailto:faeugeni@ucsc.edu)
-* 🚀  I'm currently working on a private project for a company
-* 🧠  I'm currently learning React Native
+* 🚀  I'm currently working on a my personal portfolio website
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on making interesting projects :)
-* ⚡  I love to workout, swim, and hone my skills in photography
+* ⚡  I love to workout, play basketball, and travel
 
 ### Skills
 
